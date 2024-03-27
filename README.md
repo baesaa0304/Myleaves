@@ -7,7 +7,7 @@ ITWILL 파이널 프로젝트 - Myleaves
 
 남지현(@rosy137) 팀장, 형상관리, 분양/입양(페이징 등), 결제(portOne api 등), 채팅(웹소켓 등)
 
-배선영(@baesunyoung34) QnA , FAQ(페이징, Summernote api 등)
+배선영(@baesaa0304) QnA , FAQ(페이징, Summernote api 등)
 
 손창민(@drj9812) DB관리, 로그인/회원가입(스프링 시큐리티, KAKAO API, E-MAIL 인증 등)
 
